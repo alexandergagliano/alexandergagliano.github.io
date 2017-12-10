@@ -11,6 +11,41 @@
     <atom:link href="/project/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>An Analysis of Homicides in the US from 1976 - 2015</title>
+      <link>https://alexandergagliano.github.io/project/serial_killer/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/project/serial_killer/</guid>
+      <description>&lt;p&gt;Inspired by Tom Hargrove&amp;rsquo;s initial work using SAS and SQL to explore unsolved homicides across the US, I decided to explore the same data using newer machine learning techniques.&lt;/p&gt;
+
+&lt;p&gt;Using a Lasso-Regularized Generalized Linear Model in R, I find that I can predict with $80$% accuracy the homicide cases after 2010 that will be solved and those that will not. The statistically significant variables in this model are:&lt;/p&gt;
+
+&lt;p&gt;Circumstance, Weapon Used, State, Victim&amp;rsquo;s Sex, Victim&amp;rsquo;s Ethnicity, Victim&amp;rsquo;s Age, Number of Victims, and Date of Murder&lt;/p&gt;
+
+&lt;p&gt;These are unsettling findings, but they should be understood in the context of the model. The fact that these are correlated to the rate of solved/unsolved cases does not mean they cause it. It is possible
+that a particular ethnicity is more likely to become the victim of a certain type of crime (as is true with hate crimes), which may be easier or harder to solve than other murders.&lt;/p&gt;
+
+&lt;p&gt;Using a time-series of murders between 2002 and 2015, I find significant seasonal dependences on the crime rate. Significantly more murders than average are committed in summer ($p &amp;lt; 0.0003$), and significantly fewer are committed in the winter ($p &amp;lt; 0.002$). This linear time-series model had an Adjusted $R^2 = 0.69$.&lt;/p&gt;
+
+&lt;p&gt;Next, I used a generalized linear model (unregularized) to predict the odds of the murderer not knowing the victim. At $75$ accuracy, and all other factors being equal, my results suggest:&lt;/p&gt;
+
+&lt;p&gt;The use of poison or drugs in a murder decreases the log-odds of the murderer being a stranger by $2.12$&lt;/p&gt;
+
+&lt;p&gt;The use of a gun increases the log-odds of the murderer being a stranger by $0.70$&lt;/p&gt;
+
+&lt;p&gt;An increase of 1 year in age of the victim decreases the log-odds of the murderer being a stranger by $0.005$.&lt;/p&gt;
+
+&lt;p&gt;An increase of every year in the year the crime was committed decreases the log-odds of the murderer being a stranger by $0.026$. This is particularly suspicious, and may indicate one of two things. Either the proportion of murders between strangers has been steadily decreasing since 1975, or the way that they&amp;rsquo;re being reported has changed.&lt;/p&gt;
+
+&lt;p&gt;We can use this same model to predict the probability of the stranger being a murderer for particular cases. A few of the findings from this procedure are as followed:&lt;/p&gt;
+
+&lt;p&gt;If a 25 yo male is shot and killed in 2000, and it goes unsolved, the model predicts that the probability is 30% higher that the murderer was a stranger than if the victim were female. If a 50 year old woman is drugged/poisoned in 2000, and the case is solved, there&amp;rsquo;s a 99% chance a family member did it. If a 25 year old woman is killed in 2000, and she was shot, the probability is 10x higher that it was a stranger than if she was poisoned.&lt;/p&gt;
+
+&lt;p&gt;I will continue this work to predict the killer&amp;rsquo;s relationship to the victim in particular cases.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Ethnoastronomy in Gabon</title>
       <link>https://alexandergagliano.github.io/project/ethnoastronomy_gabon/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
