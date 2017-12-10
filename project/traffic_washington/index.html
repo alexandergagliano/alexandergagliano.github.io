@@ -64,7 +64,7 @@
   <meta property="og:site_name" content="Alexander T Gagliano">
   <meta property="og:url" content="https://alexandergagliano.github.io/project/traffic_washington/">
   <meta property="og:title" content="The Impact of Autonomous Vehicles to Washington State Traffic Flows | Alexander T Gagliano">
-  <meta property="og:description" content="">
+  <meta property="og:description" content=""><meta property="og:image" content="https://alexandergagliano.github.io/img/headers/Throughput.jpg">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2016-04-27T00:00:00&#43;00:00">
@@ -211,6 +211,11 @@
 <article class="article article-project" itemscope itemtype="http://schema.org/Article">
 
   
+<div class="article-header">
+  <img src="/img/headers/Throughput.jpg" class="article-banner" itemprop="image">
+  <span class="article-header-caption">Predicted highway throughput as a function of the percentage of autonomous vehicles on the road.</span>
+</div>
+
 
 
   <div class="article-container">
@@ -277,13 +282,14 @@ in autonomous vehicles, are defined by Boid&rsquo;s model of animal flocking:</p
 <ul>
 <li>Cohesion: An object moves toward the center of mass of similar neighbors.</li>
 <li>Separation: An object moves away from other flocks in order to prevent collision.</li>
-<li>Alignment: An object adjusts its orientation according to the orientation of the flock.
-Our model solution implements methods that mimic these 3 vital behaviors.
+<li>Alignment: An object adjusts its orientation according to the orientation of the flock.</li>
+</ul>
+
+<p>Our model solution implements methods that mimic these 3 vital behaviors.1
 Our models find that, with section 10 as an exception, every section of road has its highest throughput at either 0% or 20% autonomous vehicles. At first,
 this may seem paradoxical. It is important to recognize, however, that autonomous vehicles were created under the condition that none could attain a speed higher than the speed limit of 60 mph. On the other
 hand, the speeds of human-operated vehicles can range from 40 mph to 80mph, with only a mean of 60 mph. This means that any cars moving greater than 60 mph will be slowed down by a bot moving in front
-of them. The greater the number of bots on the road, the greater the likelihood that a car moving faster than the speed limit will be slowed down, decreasing the throughput.</li>
-</ul>
+of them. The greater the number of bots on the road, the greater the likelihood that a car moving faster than the speed limit will be slowed down, decreasing the throughput.</p>
 
     </div>
 
