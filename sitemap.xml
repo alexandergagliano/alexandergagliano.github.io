@@ -68,7 +68,25 @@
     
     <url>
     
+      <loc>https://alexandergagliano.github.io/travel/ethnoastronomy_gabon/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://alexandergagliano.github.io/project/example-external-project/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://alexandergagliano.github.io/travel/example-external-project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -86,6 +104,15 @@
     
     <url>
     
+      <loc>https://alexandergagliano.github.io/travel/coma_gcs/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://alexandergagliano.github.io/project/toss/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
@@ -95,7 +122,25 @@
     
     <url>
     
+      <loc>https://alexandergagliano.github.io/travel/toss/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://alexandergagliano.github.io/project/traffic_washington/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://alexandergagliano.github.io/travel/traffic_washington/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -298,6 +343,16 @@
     
       <loc>https://alexandergagliano.github.io/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://alexandergagliano.github.io/travel/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
