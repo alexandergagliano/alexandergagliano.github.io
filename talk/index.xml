@@ -11,13 +11,30 @@
     <atom:link href="/talk/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Cosmic Perspectives in a Globalized Society</title>
+      <link>https://alexandergagliano.github.io/talk/cosmicperspectives/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/talk/cosmicperspectives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Looking Out to Look In</title>
+      <link>https://alexandergagliano.github.io/talk/tedx/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/talk/tedx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Cosmological Origins of Water</title>
       <link>https://alexandergagliano.github.io/talk/aas_231/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
       
       <guid>https://alexandergagliano.github.io/talk/aas_231/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -26,8 +43,7 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
       
       <guid>https://alexandergagliano.github.io/talk/waterworkshop/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>
