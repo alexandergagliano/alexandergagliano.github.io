@@ -5,15 +5,6 @@
     
     <url>
     
-      <loc>https://alexandergagliano.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://alexandergagliano.github.io/talk/aas_231/</loc>
       <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
@@ -149,60 +140,6 @@
     
     <url>
     
-      <loc>https://alexandergagliano.github.io/post/getting-started/</loc>
-      <lastmod>2017-09-03T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://alexandergagliano.github.io/post/widgets/</loc>
-      <lastmod>2016-04-19T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://alexandergagliano.github.io/post/managing-content/</loc>
-      <lastmod>2016-04-18T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://alexandergagliano.github.io/post/writing-markdown-latex/</loc>
-      <lastmod>2016-04-17T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://alexandergagliano.github.io/post/faq/</loc>
-      <lastmod>2016-04-10T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://alexandergagliano.github.io/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://alexandergagliano.github.io/publication/coma_gcs/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     </url>
@@ -273,26 +210,6 @@
     
       <loc>https://alexandergagliano.github.io/tags/globular-clusters/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://alexandergagliano.github.io/tags/hugo/</loc>
-      <lastmod>2017-09-03T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://alexandergagliano.github.io/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
