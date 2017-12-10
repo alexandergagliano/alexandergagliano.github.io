@@ -275,12 +275,12 @@
 (OSS) without using survey data. This is a three-tiered problem; we must: (1) gather data, (2) define
 what it means to innovate, and (3) model the innovation of OSS packages. The data we collected includes
 user activity information and internal project information, such as frequency of updates. We generated a
-regression model with R2 = 0.2645, indicating the need for better predictor variables. In addition, we created
+regression model with $R^2 = 0.2645$, indicating the need for better predictor variables. In addition, we created
 a Support Vector Machine that predicts OSS popularity with a training error of 25% and a testing error
-of 33%; this represents a strong predictive model. These analyses, among others, have yielded insight into
+of $33$%; this represents a strong predictive model. These analyses, among others, have yielded insight into
 the most influential predictors for quantifying innovation: man-hours, total lines of code, number of weekly
 downloads, average rating, and category of OSS that is specified on SourceForge.net. Network diagram also indicates a
-high correlation between the number of developers of a package and its impact. Finally, a random forest was generated with RMSE = 0.06,
+high correlation between the number of developers of a package and its impact. Finally, a random forest was generated with $RMSE = 0.06$,
 indicating number of package citations and number of downloads as the most significant variables in determining impact. In the future, we
 hope to use these variables to develop a new set of metrics that can identify both short-term and long-term
 innovation in OSS.</p>
@@ -414,6 +414,13 @@ innovation in OSS.</p>
       <script>hljs.initHighlightingOnLoad();</script>
     
 
+    
+    
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+    </script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML" integrity="sha512-tOav5w1OjvsSJzePRtt2uQPFwBoHt1VZcUq8l8nm5284LEKE9FSJBQryzMBzHxY5P0zRdNqEcpLIRVYFNgu1jw==" crossorigin="anonymous"></script>
     
     
 
