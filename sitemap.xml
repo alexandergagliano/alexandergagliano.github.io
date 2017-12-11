@@ -14,6 +14,42 @@
     
     <url>
     
+      <loc>https://alexandergagliano.github.io/travel/africa/</loc>
+      <lastmod>2017-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://alexandergagliano.github.io/travel/europe/</loc>
+      <lastmod>2017-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://alexandergagliano.github.io/travel/north_america/</loc>
+      <lastmod>2017-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://alexandergagliano.github.io/travel/south_america/</loc>
+      <lastmod>2017-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://alexandergagliano.github.io/talk/</loc>
       <lastmod>2017-12-01T00:00:00+00:00</lastmod>
     </url>
@@ -68,6 +104,15 @@
     
     <url>
     
+      <loc>https://alexandergagliano.github.io/travel/asia/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://alexandergagliano.github.io/project/ethnoastronomy_gabon/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
@@ -86,7 +131,7 @@
     
     <url>
     
-      <loc>https://alexandergagliano.github.io/project/sounds_of_the_spectrum/</loc>
+      <loc>https://alexandergagliano.github.io/project/toss/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -95,7 +140,7 @@
     
     <url>
     
-      <loc>https://alexandergagliano.github.io/project/toss/</loc>
+      <loc>https://alexandergagliano.github.io/project/sounds_of_the_spectrum/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -140,18 +185,8 @@
     
     <url>
     
-      <loc>https://alexandergagliano.github.io/publication_types/1/</loc>
-      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://alexandergagliano.github.io/publication_types/3/</loc>
-      <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+      <loc>https://alexandergagliano.github.io/tags/africa/</loc>
+      <lastmod>2017-12-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -162,6 +197,16 @@
     
       <loc>https://alexandergagliano.github.io/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://alexandergagliano.github.io/tags/asia/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -199,6 +244,16 @@
     
     <url>
     
+      <loc>https://alexandergagliano.github.io/tags/europe/</loc>
+      <lastmod>2017-12-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://alexandergagliano.github.io/tags/globular-clusters/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -211,6 +266,16 @@
     
       <loc>https://alexandergagliano.github.io/tags/machine-learning/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://alexandergagliano.github.io/tags/north_america/</loc>
+      <lastmod>2017-12-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -249,16 +314,6 @@
     
     <url>
     
-      <loc>https://alexandergagliano.github.io/publication_types/</loc>
-      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://alexandergagliano.github.io/tags/sonification/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -269,8 +324,28 @@
     
     <url>
     
+      <loc>https://alexandergagliano.github.io/tags/south_america/</loc>
+      <lastmod>2017-12-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://alexandergagliano.github.io/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://alexandergagliano.github.io/travel/</loc>
+      <lastmod>2017-12-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
