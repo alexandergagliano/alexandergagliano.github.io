@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Alexander Gagliano</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Dec 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -25,6 +25,16 @@
       <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://alexandergagliano.github.io/travel/africa/</guid>
+      <description>&lt;p&gt;Coming soon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Asia</title>
+      <link>https://alexandergagliano.github.io/travel/asia/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/travel/asia/</guid>
       <description>&lt;p&gt;Coming soon!&lt;/p&gt;
 </description>
     </item>
@@ -109,16 +119,6 @@ that a particular ethnicity is more likely to become the victim of a certain typ
 &lt;p&gt;If a 25 year old male is shot and killed in 2000, and it goes unsolved, the model predicts that the probability is $30$% higher that the murderer was a stranger than if the victim were female. If a 50 year old woman is drugged/poisoned in 2000, and the case is solved, there&amp;rsquo;s a $99$% chance a family member did it. If a 25 year old woman is killed in 2000, and she was shot, the probability is $10$x higher that it was a stranger than if she was poisoned.&lt;/p&gt;
 
 &lt;p&gt;I will continue this work to predict the killer&amp;rsquo;s relationship to the victim in particular cases.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Asia</title>
-      <link>https://alexandergagliano.github.io/travel/asia/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexandergagliano.github.io/travel/asia/</guid>
-      <description>&lt;p&gt;Coming soon!&lt;/p&gt;
 </description>
     </item>
     
