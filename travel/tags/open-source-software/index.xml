@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open-source-software on Alexander T Gagliano</title>
+    <link>https://alexandergagliano.github.io/tags/open-source-software/</link>
+    <description>Recent content in open-source-software on Alexander T Gagliano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Alexander Gagliano</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://alexandergagliano.github.io/tags/open-source-software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Impact of Open Source Software</title>
+      <link>https://alexandergagliano.github.io/project/toss/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/project/toss/</guid>
+      <description>The National Science Foundation is interested in evaluating the economic impact of Open Source Software (OSS) without using survey data. This is a three-tiered problem; we must: (1) gather data, (2) define what it means to innovate, and (3) model the innovation of OSS packages.</description>
+    </item>
+    
+  </channel>
+</rss>
