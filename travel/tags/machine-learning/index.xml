@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine-learning on Alex Gagliano</title>
+    <link>https://alexandergagliano.github.io/tags/machine-learning/</link>
+    <description>Recent content in machine-learning on Alex Gagliano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://alexandergagliano.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Analysis of Homicides in the US from 1976 - 2015</title>
+      <link>https://alexandergagliano.github.io/project/serial_killer/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/project/serial_killer/</guid>
+      <description>By aggressively using the Freedom of Information Act, SHNS reporter Tom Hargrove constructed a database of over 525,000 homicides from the past 30 years. He found that nearly 185,000 of these killings remain unsolved, and that success of police departments vary wildly across the country. Can his analysis be improved using machine learning?</description>
+    </item>
+    
+    <item>
+      <title>Impact of Open Source Software</title>
+      <link>https://alexandergagliano.github.io/project/toss/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/project/toss/</guid>
+      <description>The National Science Foundation is interested in evaluating the economic impact of Open Source Software (OSS) without using survey data. This is a three-tiered problem; we must: (1) gather data, (2) define what it means to innovate, and (3) model the innovation of OSS packages.</description>
+    </item>
+    
+    <item>
+      <title>The Impact of Autonomous Vehicles on Washington State Traffic Flows</title>
+      <link>https://alexandergagliano.github.io/project/traffic_washington/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/project/traffic_washington/</guid>
+      <description>This report investigates the effect of increasing driverless cars on a closed segment of highway with a sophisticated simulation that includes various speeds, lane changes, levels of traffic, and other realistic characteristics of roadway flow.</description>
+    </item>
+    
+  </channel>
+</rss>
