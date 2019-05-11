@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Alexander T Gagliano</title>
+    <title>Tags on Alex Gagliano</title>
     <link>https://alexandergagliano.github.io/tags/</link>
-    <description>Recent content in Tags on Alexander T Gagliano</description>
+    <description>Recent content in Tags on Alex Gagliano</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019 Alexander Gagliano</copyright>
     <lastBuildDate>Sun, 10 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://alexandergagliano.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>.europe</title>
+      <link>https://alexandergagliano.github.io/tags/.europe/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/tags/.europe/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>africa</title>
@@ -31,15 +39,6 @@
     </item>
     
     <item>
-      <title>europe</title>
-      <link>https://alexandergagliano.github.io/tags/europe/</link>
-      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexandergagliano.github.io/tags/europe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>north_america</title>
       <link>https://alexandergagliano.github.io/tags/north_america/</link>
       <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
@@ -55,15 +54,6 @@
       
       <guid>https://alexandergagliano.github.io/tags/south_america/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https://alexandergagliano.github.io/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexandergagliano.github.io/tags/academic/</guid>
-      <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
     <item>
