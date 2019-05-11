@@ -30,8 +30,15 @@
   </url>
   
   <url>
-    <loc>https://alexandergagliano.github.io/authors/admin/</loc>
-    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <loc>https://alexandergagliano.github.io/publication_types/2/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alexandergagliano.github.io/authors/alexander-t.-gagliano/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -41,13 +48,32 @@
   </url>
   
   <url>
-    <loc>https://alexandergagliano.github.io/post/jupyter/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <loc>https://alexandergagliano.github.io/authors/conor-r.-oneill/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alexandergagliano.github.io/post/</loc>
-    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <loc>https://alexandergagliano.github.io/authors/joshua-r.-marvil/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alexandergagliano.github.io/authors/juan-p.-madrid/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alexandergagliano.github.io/publication_types/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alexandergagliano.github.io/publication/coma_gcs/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -76,47 +102,6 @@
   </url>
   
   <url>
-    <loc>https://alexandergagliano.github.io/publication_types/3/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandergagliano.github.io/authors/alexander-t.-gagliano/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandergagliano.github.io/authors/conor-r.-oneill/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandergagliano.github.io/authors/joshua-r.-marvil/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandergagliano.github.io/authors/juan-madrid/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandergagliano.github.io/publication_types/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandergagliano.github.io/publication/coma_gcs/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://alexandergagliano.github.io/talk/aas_231/</loc>
     <lastmod>2017-04-01T00:00:00-04:00</lastmod>
   </url>
@@ -124,6 +109,11 @@
   <url>
     <loc>https://alexandergagliano.github.io/publication/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alexandergagliano.github.io/authors/admin/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -135,6 +125,11 @@
   <url>
     <loc>https://alexandergagliano.github.io/post/hortonfellowship19/</loc>
     <lastmod>2016-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alexandergagliano.github.io/post/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -283,11 +278,6 @@
   </url>
   
   <url>
-    <loc>https://alexandergagliano.github.io/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://alexandergagliano.github.io/talk/cosmicperspectives/</loc>
     <lastmod>2016-01-01T00:00:00-05:00</lastmod>
   </url>
@@ -305,12 +295,6 @@
   
   <url>
     <loc>https://alexandergagliano.github.io/authors/conor-oneill/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandergagliano.github.io/authors/juan-p.-madrid/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
