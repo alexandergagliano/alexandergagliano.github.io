@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Gagliano</title>
+    <link>https://alexandergagliano.github.io/</link>
+    <description>Recent content on Alex Gagliano</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Dec 2017 00:00:00 -0500</lastBuildDate>
+    
+	    <atom:link href="https://alexandergagliano.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Water Formation in the Early Universe</title>
+      <link>https://alexandergagliano.github.io/talk/waterworkshop/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/talk/waterworkshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Africa</title>
+      <link>https://alexandergagliano.github.io/travel/africa/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/travel/africa/</guid>
+      <description>&lt;p&gt;Coming soon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Asia</title>
+      <link>https://alexandergagliano.github.io/travel/asia/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/travel/asia/</guid>
+      <description>&lt;p&gt;Coming soon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Europe</title>
+      <link>https://alexandergagliano.github.io/travel/europe/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/travel/europe/</guid>
+      <description>&lt;p&gt;Coming soon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>North America</title>
+      <link>https://alexandergagliano.github.io/travel/north_america/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/travel/north_america/</guid>
+      <description>&lt;p&gt;Coming soon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>South America</title>
+      <link>https://alexandergagliano.github.io/travel/south_america/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/travel/south_america/</guid>
+      <description>&lt;p&gt;Coming soon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wide Field Map of Globular Clusters in Coma</title>
+      <link>https://alexandergagliano.github.io/publication/coma_gcs/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/publication/coma_gcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Cosmological Origins of Water</title>
+      <link>https://alexandergagliano.github.io/talk/aas_231/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/talk/aas_231/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Analysis of Homicides in the US from 1976 - 2015</title>
+      <link>https://alexandergagliano.github.io/project/serial_killer/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/project/serial_killer/</guid>
+      <description>&lt;p&gt;Inspired by Tom Hargrove&amp;rsquo;s initial work using SAS and SQL to explore unsolved homicides across the US, I decided to explore the same data using newer machine learning techniques.&lt;/p&gt;
+
+&lt;p&gt;Using a Lasso-Regularized Generalized Linear Model in R, I find that I can predict with $80$% accuracy the homicide cases after 2010 that will be solved and those that will not. The statistically significant variables in this model are:&lt;/p&gt;
+
+&lt;p&gt;Circumstance, Weapon Used, State, Victim&amp;rsquo;s Sex, Victim&amp;rsquo;s Ethnicity, Victim&amp;rsquo;s Age, Number of Victims, and Date of Murder&lt;/p&gt;
+
+&lt;p&gt;These are unsettling findings, but they should be understood in the context of the model. The fact that these are correlated to the rate of solved/unsolved cases does not mean they cause it. It is possible
+that a particular ethnicity is more likely to become the victim of a certain type of crime (as is true with hate crimes), which may be easier or harder to solve than other murders.&lt;/p&gt;
+
+&lt;p&gt;Using a time-series of murders between 2002 and 2015, I find significant seasonal dependences on the crime rate. Significantly more murders than average are committed in summer ($p &amp;lt; 0.0003$), and significantly fewer are committed in the winter ($p &amp;lt; 0.002$). This linear time-series model had an Adjusted $R^2 = 0.69$.&lt;/p&gt;
+
+&lt;p&gt;Next, I used a generalized linear model (unregularized) to predict the odds of the murderer not knowing the victim. At $75$% accuracy, and all other factors being equal, my results suggest:&lt;/p&gt;
+
+&lt;p&gt;The use of poison or drugs in a murder decreases the log-odds of the murderer being a stranger by $2.12$&lt;/p&gt;
+
+&lt;p&gt;The use of a gun increases the log-odds of the murderer being a stranger by $0.70$&lt;/p&gt;
+
+&lt;p&gt;An increase of 1 year in age of the victim decreases the log-odds of the murderer being a stranger by $0.005$.&lt;/p&gt;
+
+&lt;p&gt;An increase of every year in the year the crime was committed decreases the log-odds of the murderer being a stranger by $0.026$. This is particularly suspicious, and may indicate one of two things. Either the proportion of murders between strangers has been steadily decreasing since 1975, or the way that they&amp;rsquo;re being reported has changed.&lt;/p&gt;
+
+&lt;p&gt;We can use this same model to predict the probability of the stranger being a murderer for particular cases. A few of the findings from this procedure are as followed:&lt;/p&gt;
+
+&lt;p&gt;If a 25 year old male is shot and killed in 2000, and it goes unsolved, the model predicts that the probability is $30$% higher that the murderer was a stranger than if the victim were female. If a 50 year old woman is drugged/poisoned in 2000, and the case is solved, there&amp;rsquo;s a $99$% chance a family member did it. If a 25 year old woman is killed in 2000, and she was shot, the probability is $10$x higher that it was a stranger than if she was poisoned.&lt;/p&gt;
+
+&lt;p&gt;I will continue this work to predict the killer&amp;rsquo;s relationship to the victim in particular cases.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ethnoastronomy in Gabon</title>
+      <link>https://alexandergagliano.github.io/project/ethnoastronomy_gabon/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/project/ethnoastronomy_gabon/</guid>
+      <description>&lt;p&gt;There are 62 different ethnic groups in Gabon, a county with only 2 million people. As a result, the culture across the country is beautifully diverse.&lt;/p&gt;
+
+&lt;p&gt;One of the prominent traditional religions in Gabon is called Bwiti. It is practiced by many different ethnic groups, but its largest congregation is the Fang people to the north. During a ceremony I was able to witness, Fang initiates were adorned with images of the sun, the moon, and the stars. The chieftain also wore a shirt with these images (see top picture). These objects represent the invisible world of spirits, and the knowledge gained from initiation.&lt;/p&gt;
+
+&lt;p&gt;The Tsogo people in central Gabon use astronomy predominantly in names. It is said that Tsogo people who lead a moral life will become a star after death, so children are named after objects in the sky, such as Ngonde, the moon and Mononga, the star, to give them good luck in life. In such close proximity to the Congolese rainforest, Tsogo culture is also intimately connected to the forest (as is the culture of many other ethnic groups in the country).&lt;/p&gt;
+
+&lt;p&gt;In the south of Gabon are the Bahoumbou, who say that any crops planted will take on the attributes of their environment. Because of this, cassava, a popular tuber in West Africa, can only be planted when the moon is waxing or waning. This allows it to grow its healthy crescent shape, mimicing that of the moon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Globular Clusters in Coma</title>
+      <link>https://alexandergagliano.github.io/project/coma_gcs/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/project/coma_gcs/</guid>
+      <description>&lt;p&gt;The large-scale distribution of globular clusters in the central region of the Coma cluster of galaxies is derived through the analysis of Hubble Space Telescope/Advanced Camera for Surveys data. Data from three different HST observing programs are combined in order to obtain a full surface density map of globular clusters in the core of Coma. A total of 22,426 Globular cluster candidates were selected through a detailed morphological inspection and the analysis of their magnitude and colors in two wavebands, F475W (Sloan g) and F814W (I). The spatial distribution of globular clusters defines three main overdensities in Coma that can be associated with NGC 4889, NGC 4874, and IC 4051 but have spatial scales five to six times larger than individual galaxies. The highest surface density of globular clusters in Coma is spatially coincidental with NGC 4889. The most extended overdensity of globular clusters is associated with NGC 4874. Intracluster globular clusters also form clear bridges between Coma galaxies. Red globular clusters, which agglomerate around the center of the three main subgroups, reach higher surface densities than blue ones.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impact of Open Source Software</title>
+      <link>https://alexandergagliano.github.io/project/toss/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/project/toss/</guid>
+      <description>&lt;p&gt;The National Science Foundation is interested in evaluating the economic impact of Open Source Software
+(OSS) without using survey data. This is a three-tiered problem; we must: (1) gather data, (2) define
+what it means to innovate, and (3) model the innovation of OSS packages. The data we collected includes
+user activity information and internal project information, such as frequency of updates. We generated a
+regression model with $R^2 = 0.2645$, indicating the need for better predictor variables. In addition, we created
+a Support Vector Machine that predicts OSS popularity with a training error of 25% and a testing error
+of $33$%; this represents a strong predictive model. These analyses, among others, have yielded insight into
+the most influential predictors for quantifying innovation: man-hours, total lines of code, number of weekly
+downloads, average rating, and category of OSS that is specified on SourceForge.net. Network diagram also indicates a
+high correlation between the number of developers of a package and its impact. Finally, a random forest was generated with $RMSE = 0.06$,
+indicating number of package citations and number of downloads as the most significant variables in determining impact. In the future, we
+hope to use these variables to develop a new set of metrics that can identify both short-term and long-term
+innovation in OSS.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sounds of the Spectrum</title>
+      <link>https://alexandergagliano.github.io/project/sounds_of_the_spectrum/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/project/sounds_of_the_spectrum/</guid>
+      <description>&lt;p&gt;For thousands of years, we have used our eyes to study the cosmos, but what if we could use our ears, or our hands? What would we learn if we gave everyone a chance to experience our universe?&lt;/p&gt;
+
+&lt;p&gt;The Story of Space is the Story of Energy. All the light that we observe is electromagnetic energy propagating throughout the universe. The building blocks of the universe, atoms, each have their own unique light signature, called an emission spectrum.&lt;/p&gt;
+
+&lt;p&gt;Alex and Jackie take the frequencies of light unique to each element and converts it into an aural frequency. A series of vibrating metal plates allow them to reveal these frequencies as visual patterns.&lt;/p&gt;
+
+&lt;p&gt;By layering the audio and the patterns, they have created new representations of water, humans, the Earth, and even the universe itself.&lt;/p&gt;
+
+&lt;p&gt;In this exhibit, individuals learn to identify the elements by patterns in sound instead of in light. These sounds are then stacked to create a vibrational and auditory representation of a star, the earth, and the human body.&lt;/p&gt;
+
+&lt;p&gt;As part of this exhibit, participants can also walk through a star. As they do, the elements they hear will changed based on the relative abundances of elements at the point where they&amp;rsquo;re standing. We hope this will help people think more creatively about representing
+astronomical data in a way that makes the field more accessible for visuallly impaired and blind astronomers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Impact of Autonomous Vehicles on Washington State Traffic Flows</title>
+      <link>https://alexandergagliano.github.io/project/traffic_washington/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/project/traffic_washington/</guid>
+      <description>&lt;p&gt;With the number of different private companies racing to develop autonomous vehicle technology,
+largely in secret, the exact implementation and implications of this software is unknown. It is therefore
+crucial to identify abilities and behaviors shared by all types of autonomous vehicles, which will reduce
+travel times and danger to the users. With the potential for communication between other autonomous
+vehicles, these cars will be able to mimic travel patterns of different species of animal, such as a school
+of fish. The behaviors that allow animals to travel efficiently in groups, which can also be developed
+in autonomous vehicles, are defined by Boid&amp;rsquo;s model of animal flocking:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cohesion: An object moves toward the center of mass of similar neighbors.&lt;/li&gt;
+&lt;li&gt;Separation: An object moves away from other flocks in order to prevent collision.&lt;/li&gt;
+&lt;li&gt;Alignment: An object adjusts its orientation according to the orientation of the flock.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Our model solution implements methods that mimic these 3 vital behaviors.1
+Our models find that, with section 10 as an exception, every section of road has its highest throughput at either 0% or 20% autonomous vehicles. At first,
+this may seem paradoxical. It is important to recognize, however, that autonomous vehicles were created under the condition that none could attain a speed higher than the speed limit of 60 mph. On the other
+hand, the speeds of human-operated vehicles can range from 40 mph to 80mph, with only a mean of 60 mph. This means that any cars moving greater than 60 mph will be slowed down by a bot moving in front
+of them. The greater the number of bots on the road, the greater the likelihood that a car moving faster than the speed limit will be slowed down, decreasing the throughput.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cosmic Perspectives in a Globalized Society</title>
+      <link>https://alexandergagliano.github.io/talk/cosmicperspectives/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/talk/cosmicperspectives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Looking Out to Look In</title>
+      <link>https://alexandergagliano.github.io/talk/tedx/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/talk/tedx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large scale structure of the globular cluster population in Coma</title>
+      <link>https://alexandergagliano.github.io/publication/aas227/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/publication/aas227/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
