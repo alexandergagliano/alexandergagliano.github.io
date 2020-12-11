@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Alex Gagliano</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Authors on Alex Gagliano</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://alexandergagliano.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://alexandergagliano.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alexander T. Gagliano</title>
       <link>https://alexandergagliano.github.io/authors/alexander-t.-gagliano/</link>
@@ -53,8 +49,7 @@
       <pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>https://alexandergagliano.github.io/authors/admin/</guid>
-      <description>Alex Gagliano is a first-year graduate student in the Department of Astronomy at the University of Illinois, Urbana-Champaign. He currently studies the relationship between supernovae and their host galaxies with Dr. Gautham Narayan in preparation for the Large Synoptic Survey Telescope (LSST). He also works with colleagues at Los Alamos National Laboratory on combining cosmology simulations with inline chemical networks to study the early evolution of complex molecules.
-Alex is passionate about astronomy outreach and developing tools to make astronomy accessible to all.</description>
+      <description>I&amp;rsquo;m a graduate student in the Department of Astronomy at the University of Illinois, Urbana-Champaign, studying the relationship between supernovae and their host galaxies with Dr. Gautham Narayan. We can use these correlations to photometrically classify transients and improve their standardizability in preparation for large surveys such as the Legacy Survey for Space and Time (LSST). I also work with colleagues at Los Alamos National Laboratory on combining cosmology simulations with inline chemical networks to study the early evolution of complex molecules.</description>
     </item>
     
     <item>
