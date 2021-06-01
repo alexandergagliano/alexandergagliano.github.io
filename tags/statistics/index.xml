@@ -6,7 +6,16 @@
     <description>Recent content in statistics on Alex Gagliano</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://alexandergagliano.github.io/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://alexandergagliano.github.io/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Galaxies Hosting Supernovae and other Transients (GHOST)</title>
+      <link>https://alexandergagliano.github.io/project/ghost/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/project/ghost/</guid>
+      <description>Can we classify supernovae using only the properties of the galaxies where they occur?</description>
+    </item>
+    
     <item>
       <title>Simulating Transients and their Host Galaxies</title>
       <link>https://alexandergagliano.github.io/project/plasticcv2/</link>
@@ -14,15 +23,6 @@
       
       <guid>https://alexandergagliano.github.io/project/plasticcv2/</guid>
       <description>Embedding realistic host-galaxy correlations into a simulated sample of transients for PLASTiCC v2.0.</description>
-    </item>
-    
-    <item>
-      <title>Galaxies Hosting Supernovae and other Transients (GHOST)</title>
-      <link>https://alexandergagliano.github.io/project/ghost/</link>
-      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexandergagliano.github.io/project/ghost/</guid>
-      <description>Can we classify supernovae using only the properties of the galaxies where they occur?</description>
     </item>
     
     <item>
