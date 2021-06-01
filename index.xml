@@ -6,10 +6,28 @@
     <description>Recent content on Alex Gagliano</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Aug 2021 10:00:00 -0500</lastBuildDate>
     
 	    <atom:link href="https://alexandergagliano.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Projects</title>
+      <link>https://alexandergagliano.github.io/project/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://alexandergagliano.github.io/talk/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/talk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Travels</title>
@@ -17,15 +35,6 @@
       <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://alexandergagliano.github.io/travel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://alexandergagliano.github.io/talk/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexandergagliano.github.io/talk/</guid>
       <description></description>
     </item>
     
@@ -44,15 +53,6 @@
       <pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>https://alexandergagliano.github.io/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://alexandergagliano.github.io/project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexandergagliano.github.io/project/</guid>
       <description></description>
     </item>
     

@@ -2,32 +2,416 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://alexandergagliano.github.io/</loc>
+    <lastmod>2021-08-12T10:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/talk/jsm2021/</loc>
+    <lastmod>2021-08-12T10:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/talk/tvs_plenary/</loc>
+    <lastmod>2021-06-07T10:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/tags/astrophysics/</loc>
+    <lastmod>2021-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/tags/modeling/</loc>
+    <lastmod>2021-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/project/</loc>
+    <lastmod>2021-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/project/plasticc/</loc>
+    <lastmod>2021-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/tags/statistics/</loc>
+    <lastmod>2021-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/tags/</loc>
+    <lastmod>2021-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/publication_types/2/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/publication_types/3/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/publication/plasticcv2/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/adam-j.-burgasser/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/alexander-gagliano/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/publication/sn2020oi/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/anthony-l.-piro/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/armin-rest/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/brenna-mockler/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/charles-d.-kilpatrick/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/chih-chun-hsu/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/christa-gall/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/christian-aganze/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/c%C3%A9sar-rojas-bravo/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/d.-a.-coulter/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/d.-o.-jones/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/eugene-a.-magnier/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/gautham-narayan/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/georgios-dimitriadis/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/giacomo-terreran/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/holland-stacey/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/jens-hjorth/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/jonathan-j.-swift/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/kaisey-s.-mandel/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/katie-auchettl/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/kirsty-taggart/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/luca-izzo/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/maria-r.-drout/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/martine-lokken/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/matthew-r.-siebert/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/michael-cullen-stroh/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/patrick-d.-aleo/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/publication_types/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/r.-margutti/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/roman-gerasimov/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/ryan-j.-foley/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/samaporn-tinyanont/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/project/sn2020oi/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/wynn-vincente-jacobson-gal%C3%A1n/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/yossef-zenati/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/talk/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/talk/astrofest2/</loc>
+    <lastmod>2021-04-23T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/talk/enablingscience2/</loc>
+    <lastmod>2021-04-14T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/alex-gagliano/</loc>
+    <lastmod>2021-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/andrew-engel/</loc>
+    <lastmod>2021-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/project/ghost/</loc>
+    <lastmod>2021-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/publication/ghost/</loc>
+    <lastmod>2021-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/matias-carrasco-kind/</loc>
+    <lastmod>2021-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/a.-agnello/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/a.-baldeschi/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/a.-engel/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/a.-gagliano/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/a.-hajela/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/a.-n.-kolborg/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/a.-rest/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/a.-sarangi/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/b.-mockler/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/c.-d.-kilpatrick/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/c.-gall/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/c.-grillo/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/c.-hede/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/c.-r.-angus/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/c.-rojas-bravo/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/c.-stauffer/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/c.-c.-lin/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/d.-brethauer/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/d.-chatterjee/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/d.-k.-ramanah/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/d.-l.-coppejans/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/d.-matthews/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/d.-muthukrishna/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/e.-a.-magnier/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/e.-ramirez-ruiz/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/g.-dimitriadis/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/g.-narayan/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/g.-terreran/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/h.-korhonen/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/h.-pfister/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/j.-a.-p.-law-smith/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/j.-hjorth/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/j.-r.-fairlamb/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/j.-s.-bright/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/j.-s.-brown/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/k.-auchettl/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/k.-c.-chambers/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/k.-d.-alexander/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/k.-d.-french/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/k.-l.-taggart/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/k.-malanchev/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/k.-w.-smith/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/l.-demarchi/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/l.-izzo/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/m.-c.-stroh/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/m.-e.-huber/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/m.-r.-drout/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/m.-r.-siebert/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/n.-arendse/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/p.-d.-aleo/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/p.-k.-blanchard/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/q.-wang/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/r.-j.-foley/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/r.-j.-wainscoat/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/r.-wojtak/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/s.-a.-dodd/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/s.-h.-bruun/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/s.-i.-raimundo/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/s.-j.-smartt/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/s.-l.-schr%C3%B8der/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/s.-rest/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/s.-tinyanont/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/t.-hung/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/t.-j.-l.-deboer/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/publication/yse_survey/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/v.-f.-baldassare/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/w.-v.-jacobson-gal%C3%A1n/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/y.-c.-pan/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/authors/z.-ansari/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/talk/desc_alertbrokers/</loc>
+    <lastmod>2021-02-05T00:00:00-06:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/talk/rubin_pcw/</loc>
+    <lastmod>2020-08-11T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/talk/ncsa_caps/</loc>
+    <lastmod>2020-03-05T12:00:00-06:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/project/waternet/</loc>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://alexandergagliano.github.io/travel/africa/</loc>
     <lastmod>2019-05-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alexandergagliano.github.io/</loc>
-    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alexandergagliano.github.io/travel/</loc>
     <lastmod>2019-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alexandergagliano.github.io/talk/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <loc>https://alexandergagliano.github.io/talk/astrofest1/</loc>
+    <lastmod>2019-04-23T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://alexandergagliano.github.io/talk/aas_233/</loc>
     <lastmod>2019-04-01T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://alexandergagliano.github.io/publication_types/2/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <loc>https://alexandergagliano.github.io/talk/lsst_desc2020/</loc>
+    <lastmod>2019-04-01T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://alexandergagliano.github.io/authors/alexander-t.-gagliano/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alexandergagliano.github.io/publication/sn2020oi/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alexandergagliano.github.io/authors/</loc>
-    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alexandergagliano.github.io/authors/conor-r.-oneill/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
@@ -38,16 +422,7 @@
     <loc>https://alexandergagliano.github.io/authors/juan-p.-madrid/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alexandergagliano.github.io/publication_types/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://alexandergagliano.github.io/publication/coma_gcs/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alexandergagliano.github.io/publication/ghost/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alexandergagliano.github.io/publication/plasticcv2/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alexandergagliano.github.io/talk/waterworkshop/</loc>
@@ -65,6 +440,15 @@
     <loc>https://alexandergagliano.github.io/travel/south_america/</loc>
     <lastmod>2017-12-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://alexandergagliano.github.io/tags/outreach/</loc>
+    <lastmod>2017-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/tags/sonification/</loc>
+    <lastmod>2017-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexandergagliano.github.io/project/sounds_of_the_spectrum/</loc>
+    <lastmod>2017-04-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://alexandergagliano.github.io/talk/aas_231/</loc>
     <lastmod>2017-04-01T00:00:00-05:00</lastmod>
   </url><url>
@@ -81,9 +465,6 @@
     <lastmod>2016-06-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alexandergagliano.github.io/post/</loc>
-    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alexandergagliano.github.io/tags/</loc>
     <lastmod>2019-06-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alexandergagliano.github.io/post/hortonfellowship18/</loc>
@@ -119,15 +500,6 @@
     <loc>https://alexandergagliano.github.io/post/hortonfellowship1/</loc>
     <lastmod>2019-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alexandergagliano.github.io/project/serial_killer/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alexandergagliano.github.io/tags/astrophysics/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alexandergagliano.github.io/tags/datascience/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://alexandergagliano.github.io/tags/ethnoastronomy/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -137,28 +509,7 @@
     <loc>https://alexandergagliano.github.io/project/coma_gcs/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alexandergagliano.github.io/tags/globular-clusters/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://alexandergagliano.github.io/project/toss/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alexandergagliano.github.io/tags/machine-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alexandergagliano.github.io/tags/open-source-software/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alexandergagliano.github.io/tags/outreach/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alexandergagliano.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alexandergagliano.github.io/tags/sonification/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alexandergagliano.github.io/project/sounds_of_the_spectrum/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alexandergagliano.github.io/project/traffic_washington/</loc>
@@ -169,15 +520,6 @@
   </url><url>
     <loc>https://alexandergagliano.github.io/talk/tedx/</loc>
     <lastmod>2016-01-01T00:00:00-06:00</lastmod>
-  </url><url>
-    <loc>https://alexandergagliano.github.io/publication_types/1/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alexandergagliano.github.io/authors/conor-oneill/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alexandergagliano.github.io/publication/aas227/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alexandergagliano.github.io/categories/</loc>
   </url>

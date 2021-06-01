@@ -27,7 +27,7 @@
   
     
   
-  <meta name="description" content="This report investigates the effect of increasing driverless cars on a closed segment of highway with a sophisticated simulation that includes various speeds, lane changes, levels of traffic, and other realistic characteristics of roadway flow.">
+  <meta name="description" content="Would increasing the number of driverless cars in Washington State improve traffic flows?">
 
   
   <link rel="alternate" hreflang="en-us" href="https://alexandergagliano.github.io/project/traffic_washington/">
@@ -118,7 +118,7 @@
   <meta property="og:site_name" content="Alex Gagliano">
   <meta property="og:url" content="https://alexandergagliano.github.io/project/traffic_washington/">
   <meta property="og:title" content="The Impact of Autonomous Vehicles on Washington State Traffic Flows | Alex Gagliano">
-  <meta property="og:description" content="This report investigates the effect of increasing driverless cars on a closed segment of highway with a sophisticated simulation that includes various speeds, lane changes, levels of traffic, and other realistic characteristics of roadway flow."><meta property="og:image" content="https://alexandergagliano.github.io/project/traffic_washington/featured.jpg">
+  <meta property="og:description" content="Would increasing the number of driverless cars in Washington State improve traffic flows?"><meta property="og:image" content="https://alexandergagliano.github.io/project/traffic_washington/featured.jpg">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2016-04-27T00:00:00&#43;00:00">
@@ -245,7 +245,7 @@
         <li class="nav-item">
           <a class="nav-link " href="/#projects">
             
-            <span>Projects</span>
+            <span>Research</span>
             
           </a>
         </li>
@@ -309,9 +309,9 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts">
+          <a class="nav-link " href="/#talks">
             
-            <span>Posts</span>
+            <span>Talks</span>
             
           </a>
         </li>
@@ -654,26 +654,23 @@
   <div class="article-container">
 
     <div class="article-style" itemprop="articleBody">
-      With the number of different private companies racing to develop autonomous vehicle technology,
-largely in secret, the exact implementation and implications of this software is unknown. It is therefore
-crucial to identify abilities and behaviors shared by all types of autonomous vehicles, which will reduce
-travel times and danger to the users. With the potential for communication between other autonomous
-vehicles, these cars will be able to mimic travel patterns of different species of animal, such as a school
-of fish. The behaviors that allow animals to travel efficiently in groups, which can also be developed
-in autonomous vehicles, are defined by Boid's model of animal flocking:
-
-- Cohesion: An object moves toward the center of mass of similar neighbors.
-- Separation: An object moves away from other flocks in order to prevent collision.
-- Alignment: An object adjusts its orientation according to the orientation of the flock.
-
-Our model solution implements methods that mimic these 3 vital behaviors.1
-Our models find that, with section 10 as an exception, every section of road has its highest throughput at either 0% or 20% autonomous vehicles. At first,
-this may seem paradoxical. It is important to recognize, however, that autonomous vehicles were created under the condition that none could attain a speed higher than the speed limit of 60 mph. On the other
-hand, the speeds of human-operated vehicles can range from 40 mph to 80mph, with only a mean of 60 mph. This means that any cars moving greater than 60 mph will be slowed down by a bot moving in front
-of them. The greater the number of bots on the road, the greater the likelihood that a car moving faster than the speed limit will be slowed down, decreasing the throughput.
-
-image = "Throughput.jpg"
-caption = "Predicted highway throughput as a function of the percentage of autonomous vehicles on the road."
+      <p>With the number of different private companies racing to develop autonomous vehicles,
+largely in secret, it&rsquo;s crucial to investigate the properties of this technology that will reduce
+travel times and increase driver safety. In a team of three, I developed a model for autonomous
+vehicle behavior for the international Mathematical Contest in Modeling. Our primary objectives
+for an autonomous vehicle were inspired by Boid&rsquo;s principles of animal movement in a flock:</p>
+<ul>
+<li>Cohesion: An object moves toward the center of mass of similar neighbors.</li>
+<li>Separation: An object moves away from other flocks in order to prevent collision.</li>
+<li>Alignment: An object adjusts its orientation according to the orientation of the flock.</li>
+</ul>
+<p>For this project, we modeled a section of road with two distinct actors - an autonomous vehicle, which we
+defined as a car that always executed an &ldquo;optimal&rdquo; driving decision; and human-operated vehicles, which
+executed optimal driving behaviors only stochastically. We then compare throughputs (the rate at which cars pass through a section of road)
+for different fractions of autonomous cars.</p>
+<p>Our models find that every section of road has its highest throughput at either 0% or 20% autonomous vehicles. At first,
+this may seem paradoxical. It is important to recognize, however, that autonomous vehicles in our model were created under the condition that none broke the speed limit of 60 mph. On the other
+hand, the speeds of human-operated vehicles were sampled from a gaussian centered at 60 mph. This means that any cars moving greater than 60 mph will be slowed down by an automated car moving in front of them. The greater the number of bots that &ldquo;flock&rdquo; together on the road (following Boid&rsquo;s cohesion principle), the greater the likelihood that a car moving faster than the speed limit will be slowed and the lower the throughput. It is likely that this &ldquo;flocking&rdquo; of automated vehicles would decrease overall collisions, and this should be investigated in future studies.</p>
 
     </div>
 
@@ -681,9 +678,7 @@ caption = "Predicted highway throughput as a function of the percentage of auton
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/machine-learning/">machine-learning</a>
-  
-  <a class="badge badge-light" href="/tags/datascience/">datascience</a>
+  <a class="badge badge-light" href="/tags/modeling/">modeling</a>
   
 </div>
 

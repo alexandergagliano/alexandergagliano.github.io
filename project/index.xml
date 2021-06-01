@@ -6,14 +6,50 @@
     <description>Recent content in Projects on Alex Gagliano</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://alexandergagliano.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://alexandergagliano.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>An Analysis of Homicides in the US from 1976 - 2015</title>
-      <link>https://alexandergagliano.github.io/project/serial_killer/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Simulating Transients and their Host Galaxies</title>
+      <link>https://alexandergagliano.github.io/project/plasticc/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://alexandergagliano.github.io/project/serial_killer/</guid>
-      <description>By aggressively using the Freedom of Information Act, SHNS reporter Tom Hargrove constructed a database of over 525,000 homicides from the past 30 years. He found that nearly 185,000 of these killings remain unsolved, and that success of police departments vary wildly across the country. Can his analysis be improved using machine learning?</description>
+      <guid>https://alexandergagliano.github.io/project/plasticc/</guid>
+      <description>Embedding realistic host-galaxy correlations into a simulated sample of transients for PLASTiCC v2.0.</description>
+    </item>
+    
+    <item>
+      <title>Unveiling the Physics of SN 2020oi in M100</title>
+      <link>https://alexandergagliano.github.io/project/sn2020oi/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/project/sn2020oi/</guid>
+      <description>An investigation into the unusual early-time optical and UV flux excess of SN 2020oi, a type-Ic explosion in M100.</description>
+    </item>
+    
+    <item>
+      <title>Galaxies Hosting Supernovae and other Transients (GHOST)</title>
+      <link>https://alexandergagliano.github.io/project/ghost/</link>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/project/ghost/</guid>
+      <description>Can we classify supernovae using only the properties of the galaxies where they occur?</description>
+    </item>
+    
+    <item>
+      <title>Waternet: A Chemical Network for Cosmological-Scale Molecular Studies</title>
+      <link>https://alexandergagliano.github.io/project/waternet/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/project/waternet/</guid>
+      <description>How early in the universe did water form, and how common is it in high-redshift galaxies?</description>
+    </item>
+    
+    <item>
+      <title>Sounds of the Spectrum</title>
+      <link>https://alexandergagliano.github.io/project/sounds_of_the_spectrum/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/project/sounds_of_the_spectrum/</guid>
+      <description>For thousands of years, we have used our eyes to study the cosmos, but what if we could use our ears?</description>
     </item>
     
     <item>
@@ -22,7 +58,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://alexandergagliano.github.io/project/ethnoastronomy_gabon/</guid>
-      <description>As the recipient of the 2015 Wayne and Claire Horton Fellowship, I traveled to Gabon and studied traditional astronomy beliefs in different Ethnic groups.</description>
+      <description>I traveled to Gabon in 2016 and interviewed local anthropologists to learn about traditional astronomy beliefs in the region.</description>
     </item>
     
     <item>
@@ -31,7 +67,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://alexandergagliano.github.io/project/coma_gcs/</guid>
-      <description>The large scale distribution of globular clusters in the central region of the Coma cluster of galaxies is derived through the analysis of Hubble Space Telescope/Advanced Camera for Surveys data.</description>
+      <description>Using the largest map created to date of globular clusters in Coma to derive the global structure of the population.</description>
     </item>
     
     <item>
@@ -40,16 +76,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://alexandergagliano.github.io/project/toss/</guid>
-      <description>The National Science Foundation is interested in evaluating the economic impact of Open Source Software (OSS) without using survey data. This is a three-tiered problem; we must: (1) gather data, (2) define what it means to innovate, and (3) model the innovation of OSS packages.</description>
-    </item>
-    
-    <item>
-      <title>Sounds of the Spectrum</title>
-      <link>https://alexandergagliano.github.io/project/sounds_of_the_spectrum/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexandergagliano.github.io/project/sounds_of_the_spectrum/</guid>
-      <description>For thousands of years, we have used our eyes to study the cosmos, but what if we could use our ears, or our hands? What would we learn if we gave everyone a chance to experience our universe?</description>
+      <description>Can we aid the National Science Foundation in quantifying innovation in Open Source Software (OSS)?</description>
     </item>
     
     <item>
@@ -58,7 +85,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://alexandergagliano.github.io/project/traffic_washington/</guid>
-      <description>This report investigates the effect of increasing driverless cars on a closed segment of highway with a sophisticated simulation that includes various speeds, lane changes, levels of traffic, and other realistic characteristics of roadway flow.</description>
+      <description>Would increasing the number of driverless cars in Washington State improve traffic flows?</description>
     </item>
     
   </channel>

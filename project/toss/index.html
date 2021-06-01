@@ -27,7 +27,7 @@
   
     
   
-  <meta name="description" content="The National Science Foundation is interested in evaluating the economic impact of Open Source Software (OSS) without using survey data. This is a three-tiered problem; we must: (1) gather data, (2) define what it means to innovate, and (3) model the innovation of OSS packages.">
+  <meta name="description" content="Can we aid the National Science Foundation in quantifying innovation in Open Source Software (OSS)?">
 
   
   <link rel="alternate" hreflang="en-us" href="https://alexandergagliano.github.io/project/toss/">
@@ -118,7 +118,7 @@
   <meta property="og:site_name" content="Alex Gagliano">
   <meta property="og:url" content="https://alexandergagliano.github.io/project/toss/">
   <meta property="og:title" content="Impact of Open Source Software | Alex Gagliano">
-  <meta property="og:description" content="The National Science Foundation is interested in evaluating the economic impact of Open Source Software (OSS) without using survey data. This is a three-tiered problem; we must: (1) gather data, (2) define what it means to innovate, and (3) model the innovation of OSS packages."><meta property="og:image" content="https://alexandergagliano.github.io/project/toss/featured.PNG">
+  <meta property="og:description" content="Can we aid the National Science Foundation in quantifying innovation in Open Source Software (OSS)?"><meta property="og:image" content="https://alexandergagliano.github.io/project/toss/featured.PNG">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2016-04-27T00:00:00&#43;00:00">
@@ -245,7 +245,7 @@
         <li class="nav-item">
           <a class="nav-link " href="/#projects">
             
-            <span>Projects</span>
+            <span>Research</span>
             
           </a>
         </li>
@@ -309,9 +309,9 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts">
+          <a class="nav-link " href="/#talks">
             
-            <span>Posts</span>
+            <span>Talks</span>
             
           </a>
         </li>
@@ -654,19 +654,28 @@
   <div class="article-container">
 
     <div class="article-style" itemprop="articleBody">
-      The National Science Foundation is interested in evaluating the economic impact of Open Source Software
-(OSS) without using survey data. This is a three-tiered problem; we must: (1) gather data, (2) define
-what it means to innovate, and (3) model the innovation of OSS packages. The data we collected includes
-user activity information and internal project information, such as frequency of updates. We generated a
-regression model with $R^2 = 0.2645$, indicating the need for better predictor variables. In addition, we created
-a Support Vector Machine that predicts OSS popularity with a training error of 25% and a testing error
+      <p>The National Science Foundation is interested in finding metrics for rapidly evaluating the &lsquo;innovative potential&rsquo; of Open Source Software
+(OSS) without using survey data. This is a three-tiered problem; we must:</p>
+<p>&ndash; (1) gather data
+&ndash; (2) define what it means to innovate
+&ndash; (3) model the innovation of OSS packages</p>
+<p>We created a Support Vector Machine that predicts OSS popularity with a training error of 25% and a testing error
 of $33$%; this represents a strong predictive model. These analyses, among others, have yielded insight into
-the most influential predictors for quantifying innovation: man-hours, total lines of code, number of weekly
-downloads, average rating, and category of OSS that is specified on SourceForge.net. Network diagram also indicates a 
-high correlation between the number of developers of a package and its impact. Finally, a random forest was generated with $RMSE = 0.06$,
-indicating number of package citations and number of downloads as the most significant variables in determining impact. In the future, we
-hope to use these variables to develop a new set of metrics that can identify both short-term and long-term
-innovation in OSS.
+the most influential predictors for quantifying innovation:</p>
+<ul>
+<li>Human-hours spent building the package</li>
+<li>Total lines of code the package contains</li>
+<li>Number of weekly downloads</li>
+<li>Average package rating</li>
+<li>Category of OSS as specified on SourceForge.net.</li>
+</ul>
+<p>We also create a series of network diagrams that indicate a strong correlation between the number of developers of a package and its impact. Finally, a random forest was generated with $RMSE = 0.06$, revealing</p>
+<ul>
+<li>The number of package citations</li>
+<li>The number of downloads</li>
+</ul>
+<p>as the most significant variables in determining impact. In the future, we hope to use these variables to develop a new set of metrics that can identify both short-term and long-term
+innovation in OSS.</p>
 
     </div>
 
@@ -674,9 +683,7 @@ innovation in OSS.
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/datascience/">datascience</a>
-  
-  <a class="badge badge-light" href="/tags/open-source-software/">open-source-software</a>
+  <a class="badge badge-light" href="/tags/statistics/">statistics</a>
   
 </div>
 

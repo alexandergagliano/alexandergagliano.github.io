@@ -6,13 +6,94 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Alex Gagliano</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://alexandergagliano.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://alexandergagliano.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GHOST: Using Only Host Galaxy Information to Accurately Associate and Distinguish Supernovae</title>
+      <link>https://alexandergagliano.github.io/talk/jsm2021/</link>
+      <pubDate>Thu, 12 Aug 2021 10:00:00 -0500</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/talk/jsm2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulating Host Galaxies for Transients in PLAsTiCC V2</title>
+      <link>https://alexandergagliano.github.io/talk/tvs_plenary/</link>
+      <pubDate>Mon, 07 Jun 2021 10:00:00 -0500</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/talk/tvs_plenary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SN 2020oi: New Constraints for the Progenitors of Stripped-Envelope Supernovae</title>
+      <link>https://alexandergagliano.github.io/talk/astrofest2/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/talk/astrofest2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Generating Simulated Host Galaxy Properties Using PZFlow</title>
+      <link>https://alexandergagliano.github.io/talk/enablingscience2/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/talk/enablingscience2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a DESC Transient Broker System: The Next Phase of PLAsTiCC</title>
+      <link>https://alexandergagliano.github.io/talk/desc_alertbrokers/</link>
+      <pubDate>Fri, 05 Feb 2021 00:00:00 -0600</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/talk/desc_alertbrokers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GHOST: A Database of 16k Supernova Host Galaxies</title>
+      <link>https://alexandergagliano.github.io/talk/rubin_pcw/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/talk/rubin_pcw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>House of the Rising, Exploding Sun: Disentangling Correlations between Supernovae and their Hosts</title>
+      <link>https://alexandergagliano.github.io/talk/ncsa_caps/</link>
+      <pubDate>Thu, 05 Mar 2020 12:00:00 -0600</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/talk/ncsa_caps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Water Formation in the Early Universe</title>
+      <link>https://alexandergagliano.github.io/talk/astrofest1/</link>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/talk/astrofest1/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Water Formation From First Supernovae</title>
       <link>https://alexandergagliano.github.io/talk/aas_233/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 -0500</pubDate>
       
       <guid>https://alexandergagliano.github.io/talk/aas_233/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Water Formation From First Supernovae</title>
+      <link>https://alexandergagliano.github.io/talk/lsst_desc2020/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/talk/lsst_desc2020/</guid>
       <description></description>
     </item>
     

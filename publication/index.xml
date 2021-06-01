@@ -8,11 +8,38 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://alexandergagliano.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>A Catalog of Simulated Supernovae and Host Galaxies</title>
+      <link>https://alexandergagliano.github.io/publication/plasticcv2/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/publication/plasticcv2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An Early-Time Optical and Ultraviolet Excess in the type-Ic SN 2020oi</title>
       <link>https://alexandergagliano.github.io/publication/sn2020oi/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://alexandergagliano.github.io/publication/sn2020oi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GHOST: Using Only Host Galaxy Information to Accurately Associate and Distinguish Supernovae</title>
+      <link>https://alexandergagliano.github.io/publication/ghost/</link>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/publication/ghost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Young Supernova Experiment: Survey Goals, Overview, and Operations</title>
+      <link>https://alexandergagliano.github.io/publication/yse_survey/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/publication/yse_survey/</guid>
       <description></description>
     </item>
     
@@ -22,33 +49,6 @@
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://alexandergagliano.github.io/publication/coma_gcs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wide Field Map of Globular Clusters in Coma</title>
-      <link>https://alexandergagliano.github.io/publication/ghost/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexandergagliano.github.io/publication/ghost/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wide Field Map of Globular Clusters in Coma</title>
-      <link>https://alexandergagliano.github.io/publication/plasticcv2/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexandergagliano.github.io/publication/plasticcv2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Large scale structure of the globular cluster population in Coma</title>
-      <link>https://alexandergagliano.github.io/publication/aas227/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexandergagliano.github.io/publication/aas227/</guid>
       <description></description>
     </item>
     
