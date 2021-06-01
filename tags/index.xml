@@ -6,22 +6,13 @@
     <description>Recent content in Tags on Alex Gagliano</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://alexandergagliano.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://alexandergagliano.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>astrophysics</title>
       <link>https://alexandergagliano.github.io/tags/astrophysics/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://alexandergagliano.github.io/tags/astrophysics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>statistics</title>
-      <link>https://alexandergagliano.github.io/tags/statistics/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexandergagliano.github.io/tags/statistics/</guid>
       <description></description>
     </item>
     
@@ -31,6 +22,15 @@
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://alexandergagliano.github.io/tags/modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>statistics</title>
+      <link>https://alexandergagliano.github.io/tags/statistics/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandergagliano.github.io/tags/statistics/</guid>
       <description></description>
     </item>
     
